@@ -1,0 +1,39 @@
+#NAME • 19,2 E - Sky DE • Sport
+#SERVICE 1:64:119:0:0:0:0:0:0:0::•••••::| SPORT |::•••••
+#DESCRIPTION •••••::| SPORT |::•••••
+#SERVICE 1:0:19:7A:10:85:C00000:0:0:0:
+#SERVICE 1:0:1:384:21:85:C00000:0:0:0:
+#SERVICE 1:64:11A:0:0:0:0:0:0:0::•••••::| EUROSPORT |::•••••
+#DESCRIPTION •••••::| EUROSPORT |::•••••
+#SERVICE 1:0:1:79E0:443:1:C00000:0:0:0:
+#SERVICE 1:64:11B:0:0:0:0:0:0:0::•••••::| EUROSPORT 360 |::•••••
+#DESCRIPTION •••••::| EUROSPORT 360 |::•••••
+#SERVICE 1:0:19:118:D:85:C00000:0:0:0:
+#SERVICE 1:0:19:140:2:85:C00000:0:0:0:
+#SERVICE 1:0:19:154:10:85:C00000:0:0:0:
+#SERVICE 1:64:11C:0:0:0:0:0:0:0::•••••::| Sky Sport Austria HD |::•••••
+#DESCRIPTION •••••::| Sky Sport Austria HD |::•••••
+#SERVICE 1:0:19:153:10:85:C00000:0:0:0:
+#SERVICE 1:64:11D:0:0:0:0:0:0:0::•••••::| Sky Sport HD |::•••••
+#DESCRIPTION •••••::| Sky Sport HD |::•••••
+#SERVICE 1:0:1F:229:10:85:C00000:0:0:0:
+#SERVICE 1:0:19:72:D:85:C00000:0:0:0:
+#SERVICE 1:0:19:116:D:85:C00000:0:0:0:
+#SERVICE 1:0:19:13E:2:85:C00000:0:0:0:
+#SERVICE 1:0:19:152:10:85:C00000:0:0:0:
+#SERVICE 1:0:19:17D:3:85:C00000:0:0:0:
+#SERVICE 1:0:19:182:3:85:C00000:0:0:0:
+#SERVICE 1:64:11E:0:0:0:0:0:0:0::•••••::| Sky Bundesliga HD |::•••••
+#DESCRIPTION •••••::| Sky Bundesliga HD |::•••••
+#SERVICE 1:0:1F:228:10:85:C00000:0:0:0:
+#SERVICE 1:0:19:115:D:85:C00000:0:0:0:
+#SERVICE 1:0:19:13D:2:85:C00000:0:0:0:
+#SERVICE 1:0:19:151:10:85:C00000:0:0:0:
+#SERVICE 1:64:11F:0:0:0:0:0:0:0::•••••::| Sky Sport Austria |::•••••
+#DESCRIPTION •••••::| Sky Sport Austria |::•••••
+#SERVICE 1:0:16:1E:2:85:C00000:0:0:0:
+#SERVICE 1:64:120:0:0:0:0:0:0:0::•••••::| Sky Sport |::•••••
+#DESCRIPTION •••••::| Sky Sport |::•••••
+#SERVICE 1:0:16:DE:2:85:C00000:0:0:0:
+#SERVICE 1:64:121:0:0:0:0:0:0:0::•••••::| Sky Bundesliga |::•••••
+#DESCRIPTION •••••::| Sky Bundesliga |::•••••
